@@ -14,4 +14,9 @@ public class SuperMath
 	public int Sutract(int i, int j) {
 		retunr i-j;
 	}
+	
+	public int SutractAdd(int i, int j) {
+		retunr i-j+2;
+	}
+	
 }
