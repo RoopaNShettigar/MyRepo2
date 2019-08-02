@@ -1,6 +1,9 @@
 public class SuperMath
 {
-	public in Sum(int i, int j) {
+	public int Sum(int i, int j) {
 		return i+j;
+	}
+	public int Product(int i, int j) {
+		return i*j;
 	}
 }
