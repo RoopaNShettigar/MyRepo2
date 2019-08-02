@@ -10,4 +10,8 @@ public class SuperMath
 	public int Divide(int i, int j) {
 		retunr i/j;
 	}
+	
+	public int Sutract(int i, int j) {
+		retunr i-j;
+	}
 }
